@@ -13,7 +13,7 @@ const Item = ({ data }) => {
           <div className="name">{data.grade}-{data.name}</div>
           <div className="belong">{data.college}-{data.professional}</div>
         </div>
-        <div className="money">¥ {data.money}</div>
+        <div className="money"><span>{data.location}-</span> ¥ {data.money}</div>
       </div>
     </div>
   );
