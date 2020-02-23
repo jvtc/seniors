@@ -40,7 +40,8 @@ body {
   /* text-shadow: 0 0 2px #8888; */
   padding: 30px 0 10px;
 }
-.message{
+
+.message {
   color: #888;
   margin-bottom: 20px;
   text-align: center;
@@ -77,14 +78,22 @@ body {
 .belong {
   color: #888;
   font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
 }
 
 .money {
+  flex: 1;
   color: #aaa;
   font-size: 18px;
   padding-right: 10px;
+  word-break: break-all;
+  word-wrap: break-word;
+  text-align: right;
 }
-.money span{
+
+.money span {
   font-size: 14px;
   color: #ccc;
 }
