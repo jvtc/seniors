@@ -94,5 +94,13 @@
     "professional": "计算机网络",
     "location":"广东东莞",
     "money": "5k+"
+  },
+  {
+    "name": "王**",
+    "grade": 17,
+    "college": "信工",
+    "professional": "移动互联",
+    "location":"广东深圳",
+    "money": "3k"
   }
 ]
