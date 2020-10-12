@@ -13,7 +13,7 @@
     "college": "信工",
     "professional": "安卓",
     "location":"广东珠海",
-    "money": "12k+"
+    "money": "14k+"
   },
   {
     "name": "胡**",
@@ -21,7 +21,7 @@
     "college": "信工",
     "professional": "安卓",
     "location":"广东深圳",
-    "money": "15k+"
+    "money": "18k+"
   },
   {
     "name": "刘**",
@@ -29,7 +29,7 @@
     "college": "信工",
     "professional": "云计算",
     "location":"浙江金华",
-    "money": "7k+"
+    "money": "10k+"
   },
   {
     "name": "廖**",
@@ -37,7 +37,7 @@
     "college": "信工",
     "professional": "移动互联应用技术",
     "location":"浙江金华",
-    "money": "8k"
+    "money": "-1.5k"
   },
   {
     "name": "章**",
@@ -45,7 +45,7 @@
     "college": "信工",
     "professional": "软件技术",
     "location":"浙江杭州",
-    "money": "7k"
+    "money": "12k"
   },
   {
     "name": "陈*",
@@ -53,7 +53,7 @@
     "college": "信工",
     "professional": "计算机网络",
     "location":"江西九江",
-    "money": "0.3k"
+    "money": "1k"
   },
   {
     "name": "赖**",
@@ -77,7 +77,7 @@
     "college": "信工",
     "professional": "安卓",
     "location":"广东深圳",
-    "money": "4k+"
+    "money": "-1.5k+"
   },
   {
     "name": "左**",
@@ -85,7 +85,7 @@
     "college": "信工",
     "professional": "IOS",
     "location":"浙江杭州",
-    "money": "4k"
+    "money": "8k"
   },
   {
     "name": "刘*",
@@ -102,5 +102,13 @@
     "professional": "移动互联",
     "location":"广东深圳",
     "money": "3k"
+  },
+  {
+    "name": "邓**",
+    "grade": 16,
+    "college": "信工",
+    "professional": "计算机网络",
+    "location":"杭州",
+    "money": "7k"
   }
 ]
