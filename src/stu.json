@@ -110,5 +110,13 @@
     "professional": "计算机网络",
     "location":"杭州",
     "money": "7k"
+  },
+  {
+    "name": "邓**",
+    "grade": 16,
+    "college": "信工",
+    "professional": "计算机网络",
+    "location":"杭州",
+    "money": "7k"
   }
 ]
